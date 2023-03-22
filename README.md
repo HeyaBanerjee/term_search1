@@ -10,6 +10,9 @@ Brings the power of search to your terminal, so that you don't have to leave whi
 ## USAGE
 Now to use this app simply use ```search ``` and type anything you want to search  
 
+## DEMO
+<video src="https://github.com/darkard2003/term_search/blob/main/demo.mp4" width="320" height="200" controls preload></video>  
+
 ## WARNINGS
 1. Do not use gcc to complie. It uses strcat_s which is only available in clang. If you want to use gcc try changing it to strcat and removing buffer size. Doing this may increase the chance of buffer overflow.
 

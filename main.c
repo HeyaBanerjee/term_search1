@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 
-#define MAX_URL_SIZE 1000
-#define MAX_CMD_SIZE 1008
+#define MAX_URL_SIZE 10000
+#define MAX_CMD_SIZE 10008
 
 void search(char *search_words[], int word_count) {
 
